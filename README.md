@@ -1,4 +1,6 @@
-# EvalLab
+> **Related work:** Primary development for this problem space has converged on **[evalharness](https://github.com/MukundaKatta/evalharness)** — prompts, agents, and RAG-pipeline red-teaming, regression, and CI testing. This repo remains available; check the canonical repo first for the latest tooling.
+
+---# EvalLab
 
 > AI Model Evaluation and Benchmarking Laboratory
 
@@ -59,4 +61,3 @@ src/
     Sidebar.tsx         # Navigation sidebar
   lib/                  # Supabase client, utilities
 ```
-
